@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8' ?>
 
-<!-- build 20183.18.1219.1533                               -->
-<workbook original-version='18.1' source-build='2018.3.2 (20183.18.1219.1533)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+<!-- build 20183.20.0118.2122                               -->
+<workbook original-version='18.1' source-build='2018.3.14 (20183.20.0118.2122)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
   <document-format-change-manifest>
     <SortTagCleanup />
     <WindowsPersistSimpleIdentifiers />
@@ -2657,7 +2657,7 @@
         <folder-item name='[Ship Date]' type='field' />
         <folder-item name='[Ship Mode]' type='field' />
       </folder>
-      <layout dim-ordering='alphabetic' dim-percentage='0.614865' group-percentage='0.0445946' measure-ordering='alphabetic' measure-percentage='0.27027' parameter-percentage='0.0702703' show-structure='false' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.604247' group-percentage='0.0444015' measure-ordering='alphabetic' measure-percentage='0.27027' parameter-percentage='0.0810811' show-structure='false' />
       <semantic-values>
         <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
       </semantic-values>
